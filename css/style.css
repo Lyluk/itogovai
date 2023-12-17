@@ -146,7 +146,7 @@ a {
     text-align: center;
 }
 .au {
-    color: white;
+    color: black;
 }
 .footer__icons {
     padding-top: 20px;
@@ -252,7 +252,7 @@ p {
     .kart {
         width: 200px;
         margin-top: 20px;
-        margin-left: 50px;
+        margin-left: 30px;
     }
     .text h1 {
         margin-top: 270px;
@@ -260,15 +260,16 @@ p {
     .obo {
         margin-top: 30px;
         height: 450px;
-        width: 300px;
+        width: 260px;
+        margin-right: 70px;
     } 
     .text {
         background-color: #AFCECE;
         padding-bottom: 100px;
-        width: 220px;
+        width: 200px;
         margin: 0 auto;  
         height: 180px;
-        margin-top: 50px;
+        margin-top: 30px;
     }
     h2 {
         font-size: 25px;
@@ -280,7 +281,7 @@ p {
         display: flex;
         width: 150px;
         height: 600px;
-        margin-left: 75px;
+        margin-left: 55px;
         justify-content: space-around;
         flex-wrap: wrap;
         align-items: center;
@@ -294,10 +295,10 @@ p {
         background-color: white;
     }
     .rabots {
-        background-color: #E7E2E2;
+        background-color: #AFCECE;
         padding-bottom: 100px;
-        width: 300px;
-        margin: 0 auto;  
+        width: 260px;
+        margin-right: 180px;
         height: 2050px;
         margin-top: 30px;
     }
@@ -308,10 +309,10 @@ p {
         width: 200px;
     }
     .uslugi {
-        background-color: #E7E2E2;
+        background-color: #AFCECE;
         padding-bottom: 100px;
-        width: 300px;
-        margin: 0 auto;  
+        width: 260px;
+        margin-right: 50px; 
         height: 650px;
         margin-top: 500px;
     }
@@ -319,15 +320,14 @@ p {
         width: 200px;
     }
     .service_item {
-        margin-left: 20px;
-        margin-right: 700px;
+        margin-left: 1px;
         width: 220px;
     }
     .contact {
         background-color: #AFCECE;
         padding-bottom: 100px;
-        width: 300px;
-        margin: 0 auto;  
+        width: 260px;
+        margin-right: 80px;  
         height: 200px;
         margin-top: 30px;
     }
@@ -342,13 +342,20 @@ p {
         height: 200px;
         margin-top: 50px;
     }
+    .inp {
+        width: 200px;
+    }
+    .inpu {
+        width: 200px;
+    }
     .form {
         background-color: #AFCECE;
         padding-bottom: 100px;
-        width: 300px;
+        width: 260px;
         margin: 0 auto;  
         height: 350px;
-        margin-top: 50px;
+        margin-top: 30px;
+        margin-right: 50px;
     }
     .form_item {
         margin-left: 10px;
@@ -364,10 +371,10 @@ p {
         margin: -100px auto 0;
         position: relative;
         height: 130px;
-        width: 300px;
-        margin: 0 auto; 
-        background-color: #E7E2E2;
-        margin-top: 50px;
+        width: 260px;
+        margin-right: 100px;
+        background-color: #AFCECE;
+        margin-top: 30px;
     }
     .footer__block {
         display: inline-block;
