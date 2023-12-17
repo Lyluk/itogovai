@@ -2,7 +2,8 @@
 Что сделала:
 
 
-![image](https://github.com/Lyluk/itogovai/assets/154012517/44bfeecc-957b-477b-84da-7e68cd6bdb5d)
+![image](https://github.com/Lyluk/itogovai/assets/154012517/7410b4a8-076a-4d0b-8961-1d0125cf07a7)
+
 
 Что будет:
 
